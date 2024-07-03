@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek</h1>
-<h3 align="center">A passionate frontend developer fHi, I'm Vivek, A computer science student at ABES Engineering College. I work with MERN Stack, C++, Data Structures, and Competitive Programming, passionate about problem-solving and exploring new technologies. Eager to contribute to innovative projects and collaborate with industry professionals. Let's connect and explore opportunities together!rom India</h3>
+<h5 align="center">A passionate Web Developer Enthusiastic Hi, I'm Vivek, A computer science student at ABES Engineering College. I work with MERN Stack, C++, Data Structures, and Competitive Programming, passionate about problem-solving and exploring new technologies. Eager to contribute to innovative projects and collaborate with industry professionals. Let's connect and explore opportunities together!rom India</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek5501&label=Profile%20views&color=0e75b6&style=flat" alt="vivek5501" /> </p>
 
